@@ -11,6 +11,8 @@ left is a bit repetitive isn't it?
 system with very useful complex values such as `-4 + -63i` percents of volume.
 Who's bored now?
 
+![There should be a demo GIF here](assets/demo.gif)
+
 ## Usage
 
 To use this on your website, simply :
@@ -67,7 +69,9 @@ useful features as possible.
 
 The icon of speaker was provided by [heroicons](https://heroicons.com/).
 
-Colors have been picked from [Tailwind CSS palette](https://tailwindcss.com/docs/customizing-colors#default-color-palette)
+Colors have been picked from [Tailwind CSS palette](https://tailwindcss.com/docs/customizing-colors#default-color-palette).
+
+The demo GIF has been made using the very nice to use [ScreenToGif](https://www.screentogif.com/).
 
 The idea of creating this script came when watching [this YouTube Short](https://www.youtube.com/shorts/Ocs00dEpqXg).
 
